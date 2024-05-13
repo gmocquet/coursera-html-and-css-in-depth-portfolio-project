@@ -9,6 +9,10 @@
   - Apple Safari
   - Mozilla Firefox
 
+## Live Demo
+
+https://gmocquet.github.io/coursera-html-and-css-in-depth-portfolio-project/
+
 ## Demo
 
 <video autoplay loop muted>
